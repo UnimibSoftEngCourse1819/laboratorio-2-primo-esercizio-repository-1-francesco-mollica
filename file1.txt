@@ -7,3 +7,7 @@ additional content of the first document.
 ## second document
 
 please see file2.txt for the second document.
+
+## third document
+
+file3
